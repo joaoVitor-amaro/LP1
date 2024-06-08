@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717872172 source:c:\users\joaov\documents\estudosprogramacao\lp1\exercicios\ex008\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
