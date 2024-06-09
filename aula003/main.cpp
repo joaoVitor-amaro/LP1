@@ -20,6 +20,9 @@ int main(){
         cont++;
     } while (cont < 5); //Condição para exercutar a instrução novamente ou não
     cout << "" << endl;
+
+    //For - Estrutura de condição
+    //Inicialização - Condição - Incremento
     for(int i = 0; i < 5; i++) {
         cout << i;
     }
