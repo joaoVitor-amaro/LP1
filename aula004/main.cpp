@@ -38,7 +38,11 @@ int main(){
     }
     cout << newNome << endl;
 
+    //Calcula o tamanho da string da variavel do tipo char
+    //Necessário da biblioteca cstring
     cout << "Tamanho da palavra " << newNome << ": " << strlen(newNome) << endl;
+
+     //Calcula o tamanho da string da variavel do tipo string
     cout << "Tamanho da palavra " << newTexto << ": " << newTexto.length() << endl;
     return 0;
 }
