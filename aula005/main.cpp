@@ -1,10 +1,16 @@
 #include <iostream>
 
 using namespace std;
+#define TAM 10
+#define TAM1 3
 
 int main(){
     //Declaração de um array com 10 indices
-    int vetor[10];
+    int vetor[TAM];
+
+    //Declaração de array com valores pré definidos
+    int vetor1[TAM1] = {5, 9, 5};
+
     //Atribuição de valor ao array
     vetor[0] = 5;
     vetor[1] = 6;
